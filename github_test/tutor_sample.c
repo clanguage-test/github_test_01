@@ -2,6 +2,7 @@
 
 int tutor_01() {
 	printf("2020111349 이은경");
+	printf("2020111349 이은경");
 }
 
 int main() {
