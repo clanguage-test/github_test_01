@@ -5,6 +5,11 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "github_test", "github_test\github_test.vcxproj", "{F5AFB882-77F4-4859-A6E0-546F57629EC1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{BD4C34FA-B03A-437D-8E0B-2B98C74C7E05}"
+	ProjectSection(SolutionItems) = preProject
+		github_test\pull_request_template.md = github_test\pull_request_template.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
